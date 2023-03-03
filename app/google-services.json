@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662795079727",
+    "project_id": "asa-e-passbook",
+    "storage_bucket": "asa-e-passbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662795079727:android:8a1f97d55aa8848a4c76da",
+        "android_client_info": {
+          "package_name": "com.example.asae_passbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662795079727-bk42an0n75tb514soco366vruo9lnjmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxddkMQsGLyoEHRHv5tY_ECwyyQ39MSHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662795079727-bk42an0n75tb514soco366vruo9lnjmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
